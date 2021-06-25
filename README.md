@@ -20,5 +20,5 @@ http://localhost:3000/attribution
 This Rails app is lightweight and was generated with the following options.
 
 ```
-rails new fonts.favicon.io --minimal --api --skip-test
+rails new google-fonts-attribution-api --minimal --api --skip-test
 ```
